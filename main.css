@@ -1,37 +1,54 @@
+* {
+  font-family: sans-serif;
+  color: #333;
+  background-color: beige;
+  box-sizing: border-box;
+}
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+  font-size: 36px;
+
+  padding: 0 16px;
+  margin: ;
+  margin-bottom: 48px;
+  font-weight: 700;
+  text-decoration: ;
+  text-transform: uppercase;
+  background-color: ;
+  letter-spacing: 1.1px;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+  font-size: 24px;
+  padding: 0 16px;
+  margin: ;
+  margin-bottom: 4px;
+  font-weight: 500;
+  background-color: ;
+  letter-spacing: 1 px;
+}
+
+.story-box {
+  width: 90%;
+}
+
+em {
+  margin-bottom: 32px;
+  font-size: 16px;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+  font-size: 16px;
+  padding: 0 16px;
+  margin: 0 0 24px 0;
+  background-color: ;
+  line-height: 1.5;
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+  background-size: cover;
+  background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+  background-color: ;
+  height: 24px;
+  width: 24px;
+  margin: 0 auto;
 }
